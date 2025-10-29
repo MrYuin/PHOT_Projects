@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/Yuin/Library/Mobile Documents/com~apple~CloudDocs/Etudes25-26/IP-Telecom/PHOT/PHOT_Projects/PHOT1_1/.venv/bin/python" "$0" "$@"
-' '''
+#!/Users/Yuin/Projects/PHOT_Projects/PHOT1_1/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
